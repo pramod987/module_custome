@@ -1,5 +1,5 @@
 {
-    "name": "pramod987/module_custome",
+    "name": "bluethink/module_custome",
     "description": "",
     "type": "magento2-module",
     "license": "GPL-3.0",
@@ -9,11 +9,8 @@
             "name": "Mohit"
         }
     ],
+    "version":"100.0.0",
     "minimum-stability": "dev",
-    "require": {},
-    "version":"1.0.0",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "autoload": {
         "files": [
             "registration.php"
