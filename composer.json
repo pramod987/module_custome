@@ -1,0 +1,22 @@
+{
+    "name": "bluethink/module-custome",
+    "description": "",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "email": "mohit.bluethink@gmail.com",
+            "name": "Mohit"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Bluethink\\Custome\\": ""
+        }
+    }
+}
